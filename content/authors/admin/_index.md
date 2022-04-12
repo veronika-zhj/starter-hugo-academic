@@ -1,7 +1,7 @@
 ---
 title: Juan Zhang
 role: Student of Computer Science
-avatar_filename: https://img-blog.csdnimg.cn/a5710089de7b446f888779f12e136fc0.png
+avatar_filename: avatar.png
 bio: My research interests include Mobile Edge Computing and computation offloding.
 interests:
   - Mobile Edge Computing
