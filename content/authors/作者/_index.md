@@ -1,7 +1,7 @@
 ---
 title: 作者
 role: Student of Computer Science
-avatar_filename: image-20210707154317568.png
+avatar_filename: avatar.png
 bio: I am a student.
 interests:
   - Mobile Edge Computing
