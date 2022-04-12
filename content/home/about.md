@@ -1,6 +1,6 @@
 ---
 widget: about
-active: true
+active: false
 author: admin
 widget_id: no-reply@netlify.com
 headless: true
@@ -9,6 +9,9 @@ title: Biography
 design:
   background:
     text_color_light: false
-    image: ""
+    image: icon.png
+    gradient_start: "#93c6c5"
+    gradient_end: "#7ec0d6"
+    image_darken: 0.3
 ---
-Mobile edge computing 
+在这里添加了一些内容
