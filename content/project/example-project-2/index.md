@@ -8,12 +8,13 @@ authors:
   - veronica
 url_video: ""
 date: 2022-04-12T04:36:07.322Z
+categories: []
 external_link: ""
 url_slides: ""
 title: Example Project 2
+subtitle: The second example of using the in-built project page.
 tags:
   - Machine Learning
-categories: []
 links:
   - icon: twitter
     icon_pack: fab
@@ -22,7 +23,7 @@ links:
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-  filename: https://img-blog.csdnimg.cn/a5710089de7b446f888779f12e136fc0.png
+  filename: featured.png
 url_code: ""
 ---
 
