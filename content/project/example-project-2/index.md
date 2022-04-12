@@ -11,9 +11,9 @@ date: 2022-04-12T04:36:07.322Z
 external_link: ""
 url_slides: ""
 title: Example Project 2
-tags: []
-categories:
+tags:
   - Machine Learning
+categories: []
 links:
   - icon: twitter
     icon_pack: fab
