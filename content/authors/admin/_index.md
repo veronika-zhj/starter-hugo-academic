@@ -24,7 +24,7 @@ education:
       institution: Southwest University
       year: 2020
 email: zhangjuan_zhj@outlook.com
-superuser: true
+superuser: false
 highlight_name: true
 ---
 
