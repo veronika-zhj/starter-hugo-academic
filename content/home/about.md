@@ -10,8 +10,8 @@ design:
   background:
     text_color_light: false
     image: ""
-    gradient_start: ""
-    gradient_end: ""
+    gradient_start: "#7ae3c9"
+    gradient_end: "#8acde2"
     image_darken: ""
 ---
 在这里添加了一些内容
