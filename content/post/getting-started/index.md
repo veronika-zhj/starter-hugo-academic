@@ -11,7 +11,7 @@ draft: false
 featured: false
 authors:
   - admin
-  - 张娟
+  - 作者
 lastmod: 2020-12-13T00:00:00.000Z
 tags:
   - Academic
