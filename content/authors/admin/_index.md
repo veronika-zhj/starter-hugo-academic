@@ -32,4 +32,4 @@ Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-< icon name="download" pack="fas" > Download my [resume](https://img-blog.csdnimg.cn/a5710089de7b446f888779f12e136fc0.png).
+< icon name="download" pack="fas" > Download my [resume](https://neu-zhangjuan-1246.netlify.app/uploads/demo_resume.pdf).
